@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Research",
+    "section": "",
+    "text": "plot(iris, pch=20, cex=.75, col=\"blue\")"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "vishwanath",
+    "section": "",
+    "text": "plot(iris, pch=20, cex=.75, col=\"blue\")"
+  },
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research",
+    "section": "",
+    "text": "plot(iris, pch=20, cex=.75, col=\"green\")"
+  }
+]
