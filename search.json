@@ -1,23 +1,30 @@
 [
   {
-    "objectID": "Fall_Leaf.html",
-    "href": "Fall_Leaf.html",
-    "title": "vishwanath.github.io",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "Fall leaf"
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Vishwanath",
+    "title": "Vishwanath Blog",
     "section": "",
-    "text": "plot(iris,pch=20,col=c(\"black\",\"blue\"))"
+    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 16, 2022\n\n\nVishwanath\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 14, 2022\n\n\nVishwanath\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This is Vishwanath’s website"
+    "text": "About this blog"
   }
 ]
