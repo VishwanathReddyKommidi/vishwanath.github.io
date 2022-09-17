@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "Fall_Leaf.html",
+    "href": "Fall_Leaf.html",
+    "title": "vishwanath.github.io",
+    "section": "",
+    "text": "Fall leaf"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vishwanath",
+    "section": "",
+    "text": "plot(iris,pch=20,col=c(\"black\",\"blue\"))"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is Vishwanath’s website"
+  }
+]
