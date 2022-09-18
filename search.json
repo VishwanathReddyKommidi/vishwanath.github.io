@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Vishwanath",
+    "title": "vishwanath.github.io",
     "section": "",
-    "text": "plot(iris,pch=20,col=c(\"black\",\"blue\"))"
+    "text": "I am a graduate student at University of Texas at Dallas (UTD) with major in Social Data Analytics and Research. My specialization includes collection, analyzing and visualization of the data from various research fields. I have 2.8 years of work experience as senior systems engineer in Infosys. During that time, I developed several workflows that ingests data from raw sources like Kafka to Google big tables using Spark, Scala and SQL queries. I also generated reports using data visualization tools (SSRS, PowerBI).\n\nInterests :\n\nData Visualization\nData Analysis\nRegression Analysis\nSurvey Research\nInformation Management\n\n\n\nEducation :\n\nMS in Social Data Analytics and Research, 2022-present\nME in Turbo Machinery, 2017-2019\nB.Tech in Mechanical Engineering 2013-2017\n\n\n\nExperience:\nWorked as a Senior Systems Engineer in Infosys from 2019 to 2022."
   },
   {
     "objectID": "about.html",
